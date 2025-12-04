@@ -1,2 +1,0 @@
-# HyperOS-Guide
-github
